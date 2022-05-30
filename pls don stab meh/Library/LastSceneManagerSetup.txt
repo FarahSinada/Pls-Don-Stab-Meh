@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/M9_Knife/M9_Knife.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
